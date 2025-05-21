@@ -1,8 +1,13 @@
 # MLP from Scratch with Backpropagation
 
-**A detailed theoretical report containing all required background, mathematical derivations, etc. can be found in [`report/report.pdf`](https://github.com/joanAcero/mlp-from-scratch-backpropagation/blob/main/report/Report.pdf).**
-
 This project implements a Multi-Layer Perceptron (MLP) neural network from scratch using only Python and NumPy. It focuses on the theoretical derivation, complexity analysis, and practical implementation of the backpropagation algorithm for training MLPs.
+
+---
+
+📘 **[Read the Full Theoretical Report (PDF)](https://github.com/joanAcero/mlp-from-scratch-backpropagation/blob/main/report/Report.pdf)**  
+Includes all required background, derivations, and the math behind the implementation.
+
+---
 
 The MLP is capable of performing both K-class classification (using softmax output and cross-entropy loss) and unidimensional regression (using linear output and mean squared error loss). Hidden layers utilize the ReLU activation function.
 
