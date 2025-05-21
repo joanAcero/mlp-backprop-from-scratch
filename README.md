@@ -4,7 +4,7 @@ This project implements a Multi-Layer Perceptron (MLP) neural network from scrat
 
 The MLP is capable of performing both K-class classification (using softmax output and cross-entropy loss) and unidimensional regression (using linear output and mean squared error loss). Hidden layers utilize the ReLU activation function.
 
-A detailed theoretical report accompanying this project can be found in `report/report.pdf`.
+A detailed theoretical report containing all required background, mathematical derivations, etc. can be found in [`report/report.pdf`](https://github.com/joanAcero/mlp-from-scratch-backpropagation/blob/main/report/Report.pdf). 
 
 ## Features
 
