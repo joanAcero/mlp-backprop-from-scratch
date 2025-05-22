@@ -14,16 +14,15 @@ The MLP is capable of performing both K-class classification (using softmax outp
 
 ## Features
 
+*   **Detailed Report:** Comprehensive theoretical derivation, complexity analysis, and implementation details.
 *   **MLP Implementation from Scratch:** Core neural network components built using only NumPy.
-*   **Backpropagation Algorithm:** Analytically derived and implemented for efficient gradient computation.
-*   **Versatile Tasks:**
-    *   K-class Classification (Softmax, Cross-Entropy Loss)
-    *   Unidimensional Regression (Linear Output, Mean Squared Error Loss)
 *   **Configurable Architecture:** Define the number of hidden layers and neurons per layer.
 *   **Activation Functions:** ReLU for hidden layers, Softmax/Linear for output layers.
+*   **Versatile Tasks:**
+    *   K-class Classification 
+    *   Regression 
+*   **Backpropagation Algorithm:** Analytically derived and implemented for efficient gradient computation.
 *   **Numerical Gradient Checking:** Implemented to verify the correctness of the backpropagation algorithm.
-*   **Mini-Batch Gradient Descent:** Used for training the network.
-*   **Detailed Report:** Comprehensive theoretical derivation, complexity analysis, and implementation details.
 
 ## Getting Started
 
